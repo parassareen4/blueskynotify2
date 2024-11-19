@@ -13,546 +13,161 @@ const BLUESKY_API_BASE = 'https://bsky.social';
 const users = [
 
     {
-        username: "home-depot.bsky.social",
+        username: "state-farm.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "colgate-palmolive.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "drop-box.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "universal-pictures.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "cvs-health.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "under-armour.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "planet-fitness.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "way-fair.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "old-navy.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "southwest-airlines.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "general-motors.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "dell-technologies.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "trader-joes.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "dall-e.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "runway-ml.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "mid-journey.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "github-copilot.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "notionai.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "grammarlyai.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "zapier-ai.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "e-bay.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "sonyplaystations.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "epic-game.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "air-bnb.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "gpt-4.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "i-b-m.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "adobe-photoshop.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "chatgpt-4o.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "sales-force.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "azureai.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "home-depot.bsky.social",
+        username: "valinsontos@hotmail.com",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
-        username: "home-depot.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    },
+    }
    
 ];
 
