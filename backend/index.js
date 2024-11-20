@@ -167,6 +167,49 @@ const users = [
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
+    },{
+        username: "shoprite.bsky.social",
+        password: "oute34#434!!",
+        accessJwt: null, 
+        refreshJwt: null, 
+    },{
+        username: "therealpopefrancis.bsky.social",
+        password: "oute34#434!!",
+        accessJwt: null, 
+        refreshJwt: null, 
+    },{
+        username: "thenewyorktimes.bsky.social",
+        password: "Pye34#434",
+        accessJwt: null, 
+        refreshJwt: null, 
+    },
+    {
+        username: "dominospizzas.bsky.social",
+        password: "parassareen1",
+        accessJwt: null, 
+        refreshJwt: null, 
+    },
+    {
+        username: "home-depot.bsky.social",
+        password: "parassareen1",
+        accessJwt: null, 
+        refreshJwt: null, 
+    },
+    {
+        username: "victorias-secret.bsky.social",
+        password: "parassareen1",
+        accessJwt: null, 
+        refreshJwt: null, 
+    },{
+        username: "pix11news.bsky.social",
+        password: "parassareen1",
+        accessJwt: null, 
+        refreshJwt: null, 
+    },{
+        username: "dallas-cowboys.bsky.social",
+        password: "parassareen1",
+        accessJwt: null, 
+        refreshJwt: null, 
     }
    
 ];
