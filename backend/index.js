@@ -18,7 +18,7 @@ const users = [
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "OfficialOmaha.bsky.social",
+        username: "omahaofficial.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
@@ -68,7 +68,7 @@ const users = [
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "dell-technologies.bsky.social",
+        username: "philadelphiagov.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
