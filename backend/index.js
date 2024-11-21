@@ -13,17 +13,17 @@ const BLUESKY_API_BASE = 'https://bsky.social';
 const users = [
 
     {
-        username: "state-farm.bsky.social",
+        username: "cityofnashville.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "colgate-palmolive.bsky.social",
+        username: "OfficialOmaha.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "drop-box.bsky.social",
+        username: "CBSNewsTexas.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
@@ -38,7 +38,7 @@ const users = [
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "under-armour.bsky.social",
+        username: "wcvbboston.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
@@ -103,7 +103,7 @@ const users = [
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "grammarlyai.bsky.social",
+        username: "houstontxgov.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
@@ -113,7 +113,7 @@ const users = [
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "e-bay.bsky.social",
+        username: "nbcphiladelphia.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
@@ -123,7 +123,7 @@ const users = [
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "epic-game.bsky.social",
+        username: "chimeinc.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
         refreshJwt: null, 
