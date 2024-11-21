@@ -113,11 +113,7 @@ const users = [
         accessJwt: null, 
         refreshJwt: null, 
     }, {
-        username: "nbcphiladelphia.bsky.social",
-        password: "parassareen1",
-        accessJwt: null, 
-        refreshJwt: null, 
-    }, {
+
         username: "sonyplaystations.bsky.social",
         password: "parassareen1",
         accessJwt: null, 
@@ -168,16 +164,8 @@ const users = [
         accessJwt: null, 
         refreshJwt: null, 
     },{
-        username: "shoprite.bsky.social",
-        password: "oute34#434!!",
-        accessJwt: null, 
-        refreshJwt: null, 
-    },{
-        username: "therealpopefrancis.bsky.social",
-        password: "oute34#434!!",
-        accessJwt: null, 
-        refreshJwt: null, 
-    },{
+
+
         username: "thenewyorktimes.bsky.social",
         password: "Pye34#434",
         accessJwt: null, 
