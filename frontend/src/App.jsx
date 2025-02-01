@@ -11,7 +11,7 @@ const App = () => {
     useEffect(() => {
         async function fetchNotifications() {
             try {
-                const response = await fetch('https://blueskynotify2-oc1u.onrender.com/api/notifications');
+                const response = await fetch('https://blueskynotify2.onrender.com/api/notifications');
                 if (!response.ok) {
                     throw new Error('Failed to fetch notifications');
                 }
